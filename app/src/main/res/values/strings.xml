@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LearnGitAndGithub2</string>
+    <string name="lbl_4">4</string>
 </resources>
